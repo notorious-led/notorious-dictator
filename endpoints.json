@@ -1,7 +1,12 @@
 [
     {
-        "name":"glass-block",
-        "type":"hoopla",
-        "location":"192.168.251.250"
+        "name":"third-floor",
+        "type":"glowup-over-tcp",
+        "location":"localhost:2303"
+    },
+    {
+	"name":"twelfth-floor",
+	"type":"glowup-over-tcp",
+	"location":"localhost:2312"
     }
 ]
